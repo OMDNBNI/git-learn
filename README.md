@@ -1,4 +1,1 @@
-# git-learn
-
-## instructions
-`git clone`
+# OMDNBNI Workshops
